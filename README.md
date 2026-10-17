@@ -1,7 +1,3 @@
-<img width="1408" height="881" alt="4" src="https://github.com/user-attachments/assets/3f35a679-a7dc-4ea6-a540-5f3f1b6cfa48" />
-<img width="1408" height="881" alt="3" src="https://github.com/user-attachments/assets/c271d5b5-275a-47b3-a5ad-7e60d9a4fc8a" />
-<img width="1408" height="881" alt="2" src="https://github.com/user-attachments/assets/fe03351b-f663-4985-9277-24a613804542" />
-<img width="1408" height="881" alt="1" src="https://github.com/user-attachments/assets/8e7651a1-f899-4d05-92b5-608b7126c102" />
 # DocuChat: Ask Questions, Get Cited Answers from Any PDF
 
 A Retrieval-Augmented Generation (RAG) app. Upload a PDF, ask questions in plain English, and get answers grounded in the document, with the page numbers they came from. If the answer isn't in the document, it says so instead of guessing.
@@ -88,3 +84,9 @@ At the top of `app.py`:
 - Support for several documents and other file types
 - A small test set of questions with known answers to measure accuracy
 - Deploy on Streamlit Community Cloud
+
+
+<img width="1408" height="881" alt="4" src="https://github.com/user-attachments/assets/3f35a679-a7dc-4ea6-a540-5f3f1b6cfa48" />
+<img width="1408" height="881" alt="3" src="https://github.com/user-attachments/assets/c271d5b5-275a-47b3-a5ad-7e60d9a4fc8a" />
+<img width="1408" height="881" alt="2" src="https://github.com/user-attachments/assets/fe03351b-f663-4985-9277-24a613804542" />
+<img width="1408" height="881" alt="1" src="https://github.com/user-attachments/assets/8e7651a1-f899-4d05-92b5-608b7126c102" />
