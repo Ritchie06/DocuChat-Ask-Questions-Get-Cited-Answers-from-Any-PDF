@@ -89,10 +89,10 @@ At the top of `app.py`:
 ## Screenshots
 
 <p>
-  <img src="https://github.com/user-attachments/assets/8e7651a1-f899-4d05-92b5-608b7126c102" alt="Screenshot 1" width="50%">
-  <img src="https://github.com/user-attachments/assets/fe03351b-f663-4985-9277-24a613804542" alt="Screenshot 2" width="50%">
+  <img src="https://github.com/user-attachments/assets/8e7651a1-f899-4d05-92b5-608b7126c102" alt="Screenshot 1" width="70%">
+  <img src="https://github.com/user-attachments/assets/fe03351b-f663-4985-9277-24a613804542" alt="Screenshot 2" width="70%">
 </p>
 <p>
-  <img src="https://github.com/user-attachments/assets/c271d5b5-275a-47b3-a5ad-7e60d9a4fc8a" alt="Screenshot 3" width="50%">
-  <img src="https://github.com/user-attachments/assets/3f35a679-a7dc-4ea6-a540-5f3f1b6cfa48" alt="Screenshot 4" width="50%">
+  <img src="https://github.com/user-attachments/assets/c271d5b5-275a-47b3-a5ad-7e60d9a4fc8a" alt="Screenshot 3" width="70%">
+  <img src="https://github.com/user-attachments/assets/3f35a679-a7dc-4ea6-a540-5f3f1b6cfa48" alt="Screenshot 4" width="70%">
 </p>
